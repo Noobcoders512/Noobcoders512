@@ -1,3 +1,4 @@
+![logo](https://github.com/Noobcoders512/Noobcoders512/blob/main/Blue%20Navy%20and%20Orange%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Muaaz Saleemi</h1>
 <h3 align="center">I am a student of Computer Science in FAST NUCES</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
